@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85778880268",
+    "project_id": "student-loan-b4e7d",
+    "storage_bucket": "student-loan-b4e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85778880268:android:3e270dccf565087bdddb29",
+        "android_client_info": {
+          "package_name": "com.example.student_fund_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54hzixxuKPHNKq5hJ-SdvN6X8lD8NLus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85778880268:android:fe9ab727502e988ddddb29",
+        "android_client_info": {
+          "package_name": "com.example.student_loan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54hzixxuKPHNKq5hJ-SdvN6X8lD8NLus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
